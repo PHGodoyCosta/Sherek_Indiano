@@ -8,4 +8,5 @@ Para os comandos de musica eu usei o FFmpeg, então para rodar é necessario que
 
 # API discord:
 js: https://discord.com/developers/docs/intro
+
 python: https://discordpy.readthedocs.io/en/stable/api.html
